@@ -33,12 +33,12 @@ O projeto final inclui um banco de dados relacional com:
 ◾ Modelagem: BRModeloWeb
 
 ## GRUPO
-1 - DANDARA LIMA FERREIRA <br>
-2 - JOÃO PEDRO DIAS RODRIGUES <br>
-3 - LUCAS JOSÉ DO PRADO SOUZA <br>
-4 - NATHAN DOS SANTOS GOMES <br>
-5 - NIKOLAS WINTTER DE OLIVEIRA SCHUMAKER <br>
-6 - PAULO RICARDO CORREA CARDOSO <br>
+1 - [DANDARA LIMA FERREIRA](https://github.com/dandaralimaf) <br>
+2 - [JOÃO PEDRO DIAS RODRIGUES](https://github.com/Jottape505) <br>
+3 - [LUCAS JOSÉ DO PRADO SOUZA](https://github.com/LucasPrado2805) <br>
+4 - [NATHAN DOS SANTOS GOMES](https://github.com/NathandGomes) <br>
+5 - [NIKOLAS WINTTER DE OLIVEIRA SCHUMAKER](https://github.com/nkwintter) <br>
+6 - [PAULO RICARDO CORREA CARDOSO](https://github.com/pauloricardoc) <br>
 
 ### Professor Responsável: 
   RICARDO DE J. OLIVEIRA
